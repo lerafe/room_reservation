@@ -50,7 +50,7 @@ git clone https://github.com/lerafe/room_reservation.git
 ```
 
 ```
-cd yacut
+cd room_reservation
 ```
 
 Cоздайте и активируйте виртуальное окружение:
